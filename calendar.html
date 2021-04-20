@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <title> | Trading Simple | Calendar </title>
+  <meta charset="utf-8">
+  <!--For Responsive Web Design Using Media Queries - CSS3 -->
+  <meta name="viewport" content = "width=device-width, initial-scale=1">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="shortcut icon" href="icons/favicon.ico"/> 
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@395;400;500;600&family=Roboto:ital,wght@1,300&display=swap');
+  </style>
+  <script src="js/jquery.js" ></script> 
+</head>
+<body>
+  
+  <!--|||||||||||||||||||| HEADER SECTION |||||||||||||||||||||||||||-->
+  
+  <div class="grid-header-section" >
+    <div><a class="link-header" href="index.html"><img src="img/calendar.png" class="img-menu img-header" ></div>
+      <div id="title-header-section"><h2 class="title-section">Calendar</h2></div></a>
+      <div><!-- <h2 class="title-section">?</h2> --></div>
+    </div>
+    
+    
+    <!--|||||||||||||||||||| CONTENT |||||||||||||||||||||||||||||-->
+    
+    <div class="grid-content">
+      <div class="pricetab">
+        <table style="width: 100%;" border="1" cellpadding="5" class="tb-calendar">
+          <thead>
+            <tr>            
+              <th>Date</th>
+              <th>Currency</th>
+              <th>Impact</th>
+              <th>Event</th>
+              
+            </thead><tbody id="jsondataTable">
+              
+            </tbody>
+          </table>
+        </div>
+        
+        <footer><div id="footer">
+          <div class="footer grid-footer"> 
+            <!--    LOGIN BUTTON      -->  
+            <div>
+              
+            </div>
+            
+            <!--    CONTACT BUTTON      -->  
+            
+            <div> 
+              
+            </div>
+            
+            <!-- 	  MENU BUTTON 			-->	 
+            
+            <nav class="menu btn-index">
+              <input type="checkbox" href="#" class="menu-open" name="menu-open" id="menu-open" />
+              <label class="menu-open-button" for="menu-open">
+                <img src="img/menu.png" class="img-fluid" alt="Menu">
+              </label>
+              
+              <a href="screener.html" class="menu-item scn"><img src="img/radar.png" class="img-menu"></a>
+              <a href="commandments.html" class="menu-item com"> <img src="img/stones.png" class="img-menu"></a>
+              <a href="price.html" class="menu-item pri">  <img src="img/chart.png" class="img-menu"></a>
+              <a href="calendar.html" class="menu-item cal">  <img src="img/calendar.png" class="img-menu"></a>
+              <a href="journal.html" class="menu-item jou"><img src="img/notebook.png" class="img-menu"></a>
+            </nav>
+          </div>
+        </div>
+      </footer>
+      <script>
+        
+        //in conflict when I put in main.js
+        
+        
+        
+        
+        //The Json file used for this page is generated from a script found in github to scrap the investing.com calendar 
+        //https://github.com/andrevlima/economic-calendar-api/ 
+        $.getJSON('eco.json', function(data){
+          
+          let timedataArray = [],datadataArray = [],impactdataArray = [] ,
+          namedataArray = [];
+          
+          for(let i=0;i<data.length;i++){
+            timedataArray.push(data[i]['data']);
+            datadataArray.push(data[i]['economy']);
+            impactdataArray.push(data[i]['impact']);
+            namedataArray.push(data[i]['name']);
+          }
+          
+          let str = ' ' ;
+          for(let i=0; i<data.length;++i){
+            str += '<tr><td>'+timedataArray[i]+'</td><td>'+datadataArray[i]+'</td><td><img class="star-calendar" src="img/star'+impactdataArray[i]+'.png"	alt="'+impactdataArray[i]+'"></td><td>'+namedataArray[i]+'</td></tr>';
+          }
+          document.getElementById('jsondataTable').innerHTML = str;
+        });
+      </script>
+      
+    </body>
+    </html>

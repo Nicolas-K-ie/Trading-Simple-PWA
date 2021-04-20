@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title> | Trading Simple | Trading journal </title>
+<meta charset="utf-8">
+<!--For Responsive Web Design Using Media Queries - CSS3 -->
+<meta name="viewport" content = "width=device-width, initial-scale=1">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="css/style.css">
+<link rel="shortcut icon" href="icons/favicon.ico"/>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@395;400;500;600&family=Roboto:ital,wght@1,300&display=swap');
+</style>
+<script src="node_modules\chart.js\dist\Chart.js" defer></script>
+<script src="js/journal.js" defer></script>
+
+</head>
+<body>
+    <div class="grid-container-jr">
+        <div class="header-jr">
+            <div>
+                <a class="link-header" href="index.html"><img src="img/notebook.png" class="img-menu img-header"></div>
+                    <div id="title-header-section">
+                        <h2 class="title-section">Journal</h2>
+                    </div>
+                </a>
+        </div>
+        <div class="chart-jr">
+            <div class="resume rules-number"><p id="balance-jr" >Balance: <span id="total" >0</span> &euro;</p>    
+                <canvas id="journalChart"  height="90"></canvas>
+              </div>
+        </div>
+        <div class="new-entry-jr">
+            <form id="entryForm">
+                <input   name="MyDate" type="date" value="Date" id="date" class="form-1-line form-control form-jr"/> 
+                
+                <select name="WIN_LOSS" class="custom-select form-1-line form-control form-jr" id="winOrLoss">
+                  <option selected> WIN | LOSS </option>
+                  <option value="WIN" id="win">WIN</option>
+                  <option value="LOSS" id="loss">LOSS</option>
+                 </select> 
+              
+               <input name="amount" type="text" value="0" class="form-1-line form-control form-jr" id="amount" placeholder="0" /> 
+              
+                <button id="myBtn" type="button" value="Submit" class="rules-number buttonNeu btn-jrn form-jr">Submit</button>
+            </form>
+        </div>      
+
+        <div class="entry-jr">
+            <div class="table-entry rules-number tableau">
+                <!-- <table id="table-screener table-wallet"> -->
+                <table id="table-wallet">
+                  <thead>
+                    <tr>
+                      <th>Date</th>
+                      <th>Win|Loss</th>
+                      <th>Amount</th>
+                    </tr>
+                  </thead>
+                    <tbody>
+                  
+                  </tbody>
+                </table>
+              </div>
+        </div>
+        <div class="footer-jr">
+            <div></div>
+            <div class="button">
+                <div id="footer">
+                    <div class="footer "> 
+                        <div>
+                            <nav class="menu btn-index">
+                            <input type="checkbox" href="#" class="menu-open" name="menu-open" id="menu-open" />
+                            <label class="menu-open-button" for="menu-open">
+                                <img src="img/menu.png" class="img-fluid" alt="Menu">
+                            </label>
+                            <a href="screener.html" class="menu-item scn"><img src="img/radar.png" class="img-menu"></a>
+                            <a href="commandments.html" class="menu-item com"> <img src="img/stones.png" class="img-menu"></a>
+                            <a href="price.html" class="menu-item pri">  <img src="img/chart.png" class="img-menu"></a>
+                            <a href="calendar.html" class="menu-item cal">  <img src="img/calendar.png" class="img-menu"></a>
+                            <a href="journal.html" class="menu-item jou"><img src="img/notebook.png" class="img-menu"></a>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+ <footer></footer>
+</body>
+</html>

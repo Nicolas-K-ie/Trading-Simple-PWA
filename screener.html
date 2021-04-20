@@ -1,0 +1,206 @@
+
+<!-- THIS PAGE DO NOTHING(due to time and exp in js) but I DECIDED TO INCLUDED IT AS I SPENT TIME ON THE DESIGN    
+	  WILL BE IMPROVE IN THE NEXT LOOP OF THE CYCLE DEVELOPMENT -->
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title> | Trading Simple | </title>
+<meta charset="utf-8">
+<!--For Responsive Web Design Using Media Queries - CSS3 -->
+<meta name="viewport" content = "width=device-width, initial-scale=1">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="css/style.css">
+<link rel="shortcut icon" href="icons/favicon.ico"/>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@395;400;500;600&family=Roboto:ital,wght@1,300&display=swap');
+</style>
+</head>
+<body>
+	<!-- <div class="grid-container">
+		<div></div>
+		<div></div>
+		<div></div>
+   		<div></div>
+   		<div id="content">
+	   		<div class="main-logo">
+				<img src="img/logo_colored.png" id="logo">
+			</div>
+			
+		</div>
+		<div></div>
+		<div></div>
+		<div>
+			<div id="name">
+				<h1>TRADING SIMPLE</h1>
+				<p class="subtit">All you need to trade in One App</p>
+			</div>
+		</div>
+		<div></div>
+	</div> -->
+<!--|||||||||||||||||||| HEADER SECTION |||||||||||||||||||||||||||-->
+
+<div class="grid-header-section">
+	<div><a class="link-header" href="index.html"><img src="img/radar.png" class="img-menu img-header"></div>
+	<div id="title-header-section"><h2 class="title-section">Screener</h2></div></a>
+	<div><!-- <h2 class="title-section">?</h2> --></div>
+</div>
+
+
+<!--|||||||||||||||||||| CONTENT |||||||||||||||||||||||||||||-->
+
+<div class="grid-content">
+	<h2 style="padding-left:10%;color: aliceblue;">Still in Construction ! </h2>
+
+			<!--div1  -->
+	<div class="grid-screener-setting">
+
+		<div class="title-set"><h3 class="section-name">Indicators</h3></div>	
+
+		<div>
+			<label for="indic1" class="label-switch">MACD Zerolag
+               </label>
+        </div>
+		<div>
+			<input id="indic1" name="indicator1" type="checkbox" class="screener-checkbox" />
+		</div>
+
+		<div>
+			<label for="indic2" class="label-switch">MVA Crossover 7/20 
+            </label>
+		</div>
+		<div><input id="indic2" name="indicator2" type="checkbox" class="screener-checkbox"/>
+</div>
+
+		<div><label for="indic3" class="label-switch">MVA Crossover 20/50
+                        </label>
+</div>
+		<div>
+			<input id="indic3" name="indicator3" type="checkbox" class="screener-checkbox"/>
+		</div>
+
+	</div>
+<!-- Div2 -->
+
+	<div class="grid-screener-setting">
+
+		<div class="title-set"><h3 class="section-name">Time Frame</h3></div>	
+
+		<div>
+			<label for="tf1" class="label-switch">Scalping
+               </label>
+        </div>
+		<div>
+			<input id="tf1" name="timeframe1" type="checkbox" class="screener-checkbox" />
+		</div>
+
+		<div>
+			<label for="tf2" class="label-switch">Intraday 
+            </label>
+		</div>
+		<div><input id="tf2" name="timeframe2" type="checkbox" class="screener-checkbox"/>
+</div>
+
+		<div><label for="tf3" class="label-switch">Swing
+                        </label>
+</div>
+		<div>
+			<input id="tf3" name="timeframe3" type="checkbox" class="screener-checkbox"/>
+		</div>
+
+	</div>
+	<!-- div3 -->
+	
+<div class="grid-screener-setting">
+
+		<div class="title-set"><h3 class="section-name">Symbols</h3></div>	
+
+		<div>
+			<label for="symb1" class="label-switch">Indices
+               </label>
+        </div>
+		<div>
+			<input id="symb1" name="symbol1" type="checkbox" class="screener-checkbox" />
+		</div>
+
+		<div>
+			<label for="symb2" class="label-switch">Forex 
+            </label>
+		</div>
+		<div><input id="symb2" name="symbol2" type="checkbox" class="screener-checkbox"/>
+</div>
+
+		<div><label for="symb3" class="label-switch">Crypto
+                        </label>
+</div>
+		<div>
+			<input id="symb3" name="symbol3" type="checkbox" class="screener-checkbox"/>
+		</div>
+
+		<!-- <div>
+			<label for="symb4" class="label-switch">Selection
+               </label>
+        </div>
+		<div>
+			<input id="symb4" name="symbol4" type="checkbox" class="screener-checkbox" />
+		</div> -->
+
+	</div>
+<!-- 	div finish
+ -->
+ <!-- button -->
+<div class="btn-start-screener">
+ 			<button class="buttonNeu btn-red"> <a class="btn-link" href="screener_processing.html">
+ 				START</a>
+ 			</button>
+ 		</div>
+ <!-- end button -->
+
+
+
+</div><!-- Grid content end -->
+
+<!--|||||||||||||||||||| E N D    CONTENT ||||||||||||||||||||-->
+
+			<footer><div id="footer">
+	   		<div class="footer grid-footer"> 
+<!-- 	  LOGIN BUTTON 			-->	 
+  			<div>
+  				
+			</div>
+
+<!-- 	  CONTACT BUTTON 			-->	 
+
+			<div> 
+
+			</div>
+
+	  <!-- MENU BUTTON 				 the menu doesn't have js , only css -->
+
+				<nav class="menu btn-index">
+				   <input type="checkbox" href="#" class="menu-open" name="menu-open" id="menu-open" />
+				   <label class="menu-open-button" for="menu-open">
+				    <img src="img/menu.png" class="img-fluid" alt="Menu">
+				  </label>
+
+				   <a href="screener.html" class="menu-item scn"><img src="img/radar.png" class="img-menu"></a>
+				   <a href="commandments.html" class="menu-item com"> <img src="img/stones.png" class="img-menu"></a>
+				   <a href="price.html" class="menu-item pri">  <img src="img/chart.png" class="img-menu"></a>
+				   <a href="calendar.html" class="menu-item cal">  <img src="img/calendar.png" class="img-menu"></a>
+				   <a href="journal.html" class="menu-item jou"><img src="img/notebook.png" class="img-menu"></a>
+				</nav>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+

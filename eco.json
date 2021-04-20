@@ -1,0 +1,1808 @@
+[
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-28 23:50:00",
+    "name": "BoJ Summary of Opinions"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "India - Holi"
+  },
+  {
+    "economy": "GBP",
+    "impact": 1,
+    "data": "2021-03-29 08:30:00",
+    "name": "BoE Consumer Credit (Feb)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 1,
+    "data": "2021-03-29 08:30:00",
+    "name": "M4 Money Supply (MoM) (Feb)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 1,
+    "data": "2021-03-29 08:30:00",
+    "name": "Mortgage Approvals (Feb)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 1,
+    "data": "2021-03-29 08:30:00",
+    "name": "Mortgage Lending (Feb)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 1,
+    "data": "2021-03-29 08:30:00",
+    "name": "Net Lending to Individuals"
+  },
+  {
+    "economy": "BRL",
+    "impact": 2,
+    "data": "2021-03-29 11:25:00",
+    "name": "BCB Focus Market Readout"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-03-29 13:30:00",
+    "name": "Bank lending (MoM) (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-29 14:00:00",
+    "name": "French 12-Month BTF Auction"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-29 14:00:00",
+    "name": "French 3-Month BTF Auction"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-29 14:00:00",
+    "name": "French 6-Month BTF Auction"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-29 15:30:00",
+    "name": "3-Month Bill Auction"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-29 15:30:00",
+    "name": "6-Month Bill Auction"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-29 15:30:00",
+    "name": "Dallas Fed Mfg Business Index (Mar)"
+  },
+  {
+    "economy": "NZD",
+    "impact": 2,
+    "data": "2021-03-29 21:45:00",
+    "name": "Building Consents (MoM) (Feb)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 2,
+    "data": "2021-03-29 23:30:00",
+    "name": "Jobs/applications ratio (Feb)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-29 23:30:00",
+    "name": "Unemployment Rate (Feb)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 2,
+    "data": "2021-03-29 23:50:00",
+    "name": "Retail Sales (YoY) (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 06:00:00",
+    "name": "German Import Price Index (MoM) (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 06:00:00",
+    "name": "German Import Price Index (YoY) (Feb)"
+  },
+  {
+    "economy": "NOK",
+    "impact": 1,
+    "data": "2021-03-30 06:00:00",
+    "name": "Core Retail Sales (MoM) (Feb)"
+  },
+  {
+    "economy": "ZAR",
+    "impact": 1,
+    "data": "2021-03-30 06:00:00",
+    "name": "M3 Money Supply (YoY) (Feb)"
+  },
+  {
+    "economy": "ZAR",
+    "impact": 1,
+    "data": "2021-03-30 06:00:00",
+    "name": "Private Sector Credit (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 06:45:00",
+    "name": "French Consumer Confidence (Mar)"
+  },
+  {
+    "economy": "CHF",
+    "impact": 2,
+    "data": "2021-03-30 07:00:00",
+    "name": "KOF Leading Indicators (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-30 07:00:00",
+    "name": "Spanish CPI (YoY)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 07:00:00",
+    "name": "Spanish CPI (MoM)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-30 07:00:00",
+    "name": "Spanish HICP (YoY) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 07:00:00",
+    "name": "Spanish HICP (MoM)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 07:00:00",
+    "name": "Spanish Retail Sales (YoY) (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 08:00:00",
+    "name": "Italian PPI (YoY) (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 08:00:00",
+    "name": "Italian PPI (MoM) (Feb)"
+  },
+  {
+    "economy": "HKD",
+    "impact": 1,
+    "data": "2021-03-30 08:30:00",
+    "name": "Retail Sales (YoY) (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 09:00:00",
+    "name": "Business and Consumer Survey (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 09:00:00",
+    "name": "Business Climate (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 09:00:00",
+    "name": "Consumer Confidence (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 09:00:00",
+    "name": "Consumer Inflation Expectation (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 09:00:00",
+    "name": "Selling Price Expectations (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 09:00:00",
+    "name": "Services Sentiment (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 09:00:00",
+    "name": "Industrial Sentiment (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-30 10:45:00",
+    "name": "Italian 10-Year BTP Auction"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 10:45:00",
+    "name": "Italian 5-Year BTP Auction"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-03-30 11:00:00",
+    "name": "IGP-M Inflation Index (MoM) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 11:30:00",
+    "name": "Spanish Business Confidence"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 12:00:00",
+    "name": "German CPI (YoY) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-30 12:00:00",
+    "name": "German CPI (MoM) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 12:00:00",
+    "name": "German HICP (YoY) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-30 12:00:00",
+    "name": "German HICP (MoM) (Mar)"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-03-30 12:00:00",
+    "name": "Brazilian PPI (MoM) (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-30 12:00:00",
+    "name": "ECB McCaul Speaks"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-30 12:55:00",
+    "name": "Redbook (YoY)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-30 12:55:00",
+    "name": "Redbook (MoM)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-03-30 13:00:00",
+    "name": "FOMC Member Quarles Speaks"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-30 13:00:00",
+    "name": "House Price Index (YoY) (Jan)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-30 13:00:00",
+    "name": "House Price Index (MoM) (Jan)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-30 13:00:00",
+    "name": "House Price Index (Jan)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-30 13:00:00",
+    "name": "S&P/CS HPI Composite - 20 s.a. (MoM) (Jan)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-30 13:00:00",
+    "name": "S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-03-30 13:00:00",
+    "name": "S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan)"
+  },
+  {
+    "economy": "USD",
+    "impact": 3,
+    "data": "2021-03-30 14:00:00",
+    "name": "CB Consumer Confidence (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-30 14:30:00",
+    "name": "Dallas Fed Services Revenues (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-30 14:30:00",
+    "name": "Texas Services Sector Outlook (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-03-30 16:00:00",
+    "name": "FOMC Member Bostic Speaks"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-03-30 18:00:00",
+    "name": "FOMC Member Williams Speaks"
+  },
+  {
+    "economy": "BRL",
+    "impact": 2,
+    "data": "2021-03-30 19:45:00",
+    "name": "CAGED Net Payroll Jobs (Feb)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-03-30 20:30:00",
+    "name": "API Weekly Crude Oil Stock"
+  },
+  {
+    "economy": "MXN",
+    "impact": 1,
+    "data": "2021-03-30 21:00:00",
+    "name": "Fiscal Balance (Feb)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-03-30 21:00:00",
+    "name": "Manufacturing BSI Index (Apr)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-03-30 23:00:00",
+    "name": "Industrial Production (YoY) (Feb)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-03-30 23:00:00",
+    "name": "Industrial Production (MoM) (Feb)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-03-30 23:00:00",
+    "name": "Retail Sales (MoM)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-03-30 23:00:00",
+    "name": "Service Sector Output (MoM) (Feb)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 1,
+    "data": "2021-03-30 23:01:00",
+    "name": "BRC Shop Price Index (YoY)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 2,
+    "data": "2021-03-30 23:50:00",
+    "name": "Industrial Production (MoM) (Feb)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-30 23:50:00",
+    "name": "Industrial Production forecast 1m ahead (MoM) (Mar)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-30 23:50:00",
+    "name": "Industrial Production forecast 2m ahead (MoM) (Apr)"
+  },
+  {
+    "economy": "NZD",
+    "impact": 2,
+    "data": "2021-03-31 00:00:00",
+    "name": "ANZ Business Confidence (Mar)"
+  },
+  {
+    "economy": "NZD",
+    "impact": 1,
+    "data": "2021-03-31 00:00:00",
+    "name": "NBNZ Own Activity (Mar)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 2,
+    "data": "2021-03-31 00:30:00",
+    "name": "Building Approvals (MoM) (Feb)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 1,
+    "data": "2021-03-31 00:30:00",
+    "name": "Housing Credit (Feb)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 1,
+    "data": "2021-03-31 00:30:00",
+    "name": "Private House Approvals (Feb)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 2,
+    "data": "2021-03-31 00:30:00",
+    "name": "Private Sector Credit (MoM) (Feb)"
+  },
+  {
+    "economy": "CNY",
+    "impact": 2,
+    "data": "2021-03-31 01:00:00",
+    "name": "Chinese Composite PMI (Mar)"
+  },
+  {
+    "economy": "CNY",
+    "impact": 3,
+    "data": "2021-03-31 01:00:00",
+    "name": "Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "CNY",
+    "impact": 2,
+    "data": "2021-03-31 01:00:00",
+    "name": "Non-Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "SGD",
+    "impact": 1,
+    "data": "2021-03-31 02:00:00",
+    "name": "Bank Lending (Feb)"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Norway - Easter - Early close at 13:00"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 05:19:00",
+    "name": "Housing Starts (YoY) (Feb)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 1,
+    "data": "2021-03-31 06:00:00",
+    "name": "Business Investment (YoY) (Q4)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 2,
+    "data": "2021-03-31 06:00:00",
+    "name": "Business Investment (QoQ) (Q4)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 2,
+    "data": "2021-03-31 06:00:00",
+    "name": "Current Account (Q4)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 3,
+    "data": "2021-03-31 06:00:00",
+    "name": "GDP (YoY) (Q4)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 3,
+    "data": "2021-03-31 06:00:00",
+    "name": "GDP (QoQ) (Q4)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 2,
+    "data": "2021-03-31 06:00:00",
+    "name": "Nationwide HPI (MoM) (Mar)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 2,
+    "data": "2021-03-31 06:00:00",
+    "name": "Nationwide HPI (YoY) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-31 06:45:00",
+    "name": "French Consumer Spending (MoM) (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 06:45:00",
+    "name": "French CPI (YoY)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-31 06:45:00",
+    "name": "French CPI (MoM)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-31 06:45:00",
+    "name": "French HICP (MoM)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 06:45:00",
+    "name": "French HICP (YoY)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 06:45:00",
+    "name": "French PPI (MoM) (Feb)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 06:50:00",
+    "name": "Construction Orders (YoY) (Feb)"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-03-31 07:20:00",
+    "name": "Foreign Debt (USD) (Q4)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-31 07:55:00",
+    "name": "German Unemployment Rate (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 07:55:00",
+    "name": "German Unemployment (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 07:55:00",
+    "name": "German Unemployment n.s.a. (Mar)"
+  },
+  {
+    "economy": "CHF",
+    "impact": 1,
+    "data": "2021-03-31 08:00:00",
+    "name": "ZEW Expectations (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 08:00:00",
+    "name": "Spanish Current account (Jan)"
+  },
+  {
+    "economy": "NOK",
+    "impact": 1,
+    "data": "2021-03-31 08:00:00",
+    "name": "Central Bank Currency Purchase (Apr)"
+  },
+  {
+    "economy": "HKD",
+    "impact": 1,
+    "data": "2021-03-31 08:30:00",
+    "name": "M3 Money Supply (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 3,
+    "data": "2021-03-31 08:55:00",
+    "name": "German Unemployment Change (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 09:00:00",
+    "name": "Italian CPI (YoY) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-31 09:00:00",
+    "name": "Italian CPI (MoM) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 09:00:00",
+    "name": "Italian HICP (MoM) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 09:00:00",
+    "name": "Italian HICP (YoY) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 09:00:00",
+    "name": "Core CPI (MoM)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-31 09:00:00",
+    "name": "Core CPI (YoY)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-03-31 09:00:00",
+    "name": "CPI (MoM)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 3,
+    "data": "2021-03-31 09:00:00",
+    "name": "CPI (YoY) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 09:00:00",
+    "name": "CPI, n.s.a (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 09:00:00",
+    "name": "HICP ex Energy & Food (YoY) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-03-31 09:00:00",
+    "name": "HICP ex Energy and Food (MoM)"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-03-31 10:00:00",
+    "name": "Federal Fiscal Deficit (Feb)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 11:00:00",
+    "name": "MBA 30-Year Mortgage Rate"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 11:00:00",
+    "name": "MBA Mortgage Applications (WoW)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 11:00:00",
+    "name": "MBA Purchase Index"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 11:00:00",
+    "name": "Mortgage Market Index"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 11:00:00",
+    "name": "Mortgage Refinance Index"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-03-31 11:30:00",
+    "name": "Balance of Payments (USD) (Q4)"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-03-31 11:30:00",
+    "name": "Current Account % of GDP (QoQ) (Q4)"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-03-31 11:30:00",
+    "name": "Current Account (USD) (Q4)"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-03-31 11:30:00",
+    "name": "Trade Balance (USD) (Q4)"
+  },
+  {
+    "economy": "INR",
+    "impact": 2,
+    "data": "2021-03-31 11:30:00",
+    "name": "RBI Monetary and Credit Information Review"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-03-31 12:00:00",
+    "name": "Foreign Debt (USD)"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-03-31 12:00:00",
+    "name": "Infrastructure Output (YoY) (Feb)"
+  },
+  {
+    "economy": "BRL",
+    "impact": 2,
+    "data": "2021-03-31 12:00:00",
+    "name": "Unemployment Rate"
+  },
+  {
+    "economy": "ZAR",
+    "impact": 1,
+    "data": "2021-03-31 12:00:00",
+    "name": "Trade Balance (Feb)"
+  },
+  {
+    "economy": "USD",
+    "impact": 3,
+    "data": "2021-03-31 12:15:00",
+    "name": "ADP Nonfarm Employment Change (Mar)"
+  },
+  {
+    "economy": "CAD",
+    "impact": 3,
+    "data": "2021-03-31 12:30:00",
+    "name": "GDP (MoM) (Jan)"
+  },
+  {
+    "economy": "CAD",
+    "impact": 1,
+    "data": "2021-03-31 12:30:00",
+    "name": "IPPI (MoM) (Feb)"
+  },
+  {
+    "economy": "CAD",
+    "impact": 1,
+    "data": "2021-03-31 12:30:00",
+    "name": "IPPI (YoY) (Feb)"
+  },
+  {
+    "economy": "CAD",
+    "impact": 2,
+    "data": "2021-03-31 12:30:00",
+    "name": "RMPI (MoM) (Feb)"
+  },
+  {
+    "economy": "CAD",
+    "impact": 1,
+    "data": "2021-03-31 12:30:00",
+    "name": "RMPI (YoY) (Feb)"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-03-31 12:30:00",
+    "name": "Debt-to-GDP ratio (Feb)"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-03-31 12:30:00",
+    "name": "Budget Balance (Feb)"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-03-31 12:30:00",
+    "name": "Budget Surplus (Feb)"
+  },
+  {
+    "economy": "CHF",
+    "impact": 1,
+    "data": "2021-03-31 13:00:00",
+    "name": "SNB Quarterly Bulletin"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-03-31 13:45:00",
+    "name": "Chicago PMI (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 3,
+    "data": "2021-03-31 14:00:00",
+    "name": "Pending Home Sales (MoM) (Feb)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 14:00:00",
+    "name": "Pending Home Sales Index (Feb)"
+  },
+  {
+    "economy": "USD",
+    "impact": 3,
+    "data": "2021-03-31 14:30:00",
+    "name": "Crude Oil Inventories"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 14:30:00",
+    "name": "EIA Refinery Crude Runs  (WoW)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 14:30:00",
+    "name": "Crude Oil Imports"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-03-31 14:30:00",
+    "name": "Cushing Crude Oil Inventories"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 14:30:00",
+    "name": "Distillate Fuel Production"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 14:30:00",
+    "name": "EIA Weekly Distillates Stocks"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 14:30:00",
+    "name": "Gasoline Production"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 14:30:00",
+    "name": "Heating Oil Stockpiles"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 14:30:00",
+    "name": "EIA Weekly Refinery Utilization Rates (WoW)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-03-31 14:30:00",
+    "name": "Gasoline Inventories"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-03-31 17:30:00",
+    "name": "Foreign Exchange Flows"
+  },
+  {
+    "economy": "AUD",
+    "impact": 2,
+    "data": "2021-03-31 21:30:00",
+    "name": "AIG Manufacturing Index (Mar)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 1,
+    "data": "2021-03-31 22:00:00",
+    "name": "Manufacturing PMI"
+  },
+  {
+    "economy": "USD",
+    "impact": 3,
+    "data": "2021-03-31 23:00:00",
+    "name": "U.S. President Biden Speaks"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 23:50:00",
+    "name": "Foreign Bonds Buying"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 23:50:00",
+    "name": "Foreign Investments in Japanese Stocks"
+  },
+  {
+    "economy": "JPY",
+    "impact": 2,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan All Big Industry CAPEX (Q1)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan All Small Industry CAPEX (Q1)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 2,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan Big Manufacturing Outlook Index (Q1)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 3,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan Large Manufacturers Index (Q1)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan Large Non-Manufacturers Diffusion Index (Q1)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 3,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan Large Non-Manufacturers Index (Q1)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan Small Manufacturers Diffusion Index (Q1)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan Small Manufacturing Index (Q1)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan Small Non-Manufacturers Diffusion Index (Q1)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-03-31 23:50:00",
+    "name": "Tankan Small Non-Manufacturing Index (Q1)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-04-01 00:00:00",
+    "name": "Exports (YoY) (Mar)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-04-01 00:00:00",
+    "name": "Imports (YoY) (Mar)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-04-01 00:00:00",
+    "name": "Trade Balance (Mar)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-04-01 00:30:00",
+    "name": "Nikkei Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 1,
+    "data": "2021-04-01 00:30:00",
+    "name": "Exports (MoM) (Feb)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 2,
+    "data": "2021-04-01 00:30:00",
+    "name": "Home Loans (MoM)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 1,
+    "data": "2021-04-01 00:30:00",
+    "name": "Imports (MoM) (Feb)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 1,
+    "data": "2021-04-01 00:30:00",
+    "name": "Invest Housing Finance (MoM)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 3,
+    "data": "2021-04-01 00:30:00",
+    "name": "Retail Sales (MoM) (Feb)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 2,
+    "data": "2021-04-01 00:30:00",
+    "name": "Trade Balance (Feb)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-04-01 00:30:00",
+    "name": "Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "SGD",
+    "impact": 1,
+    "data": "2021-04-01 00:30:00",
+    "name": "URA Property Index (QoQ) (Q1)"
+  },
+  {
+    "economy": "IDR",
+    "impact": 1,
+    "data": "2021-04-01 00:30:00",
+    "name": "Nikkei Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "CNY",
+    "impact": 3,
+    "data": "2021-04-01 01:45:00",
+    "name": "Caixin Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 2,
+    "data": "2021-04-01 03:45:00",
+    "name": "10-Year JGB Auction"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Norway - Maundy Thursday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Mexico - Maundy Thursday"
+  },
+  {
+    "economy": "IDR",
+    "impact": 2,
+    "data": "2021-04-01 04:05:00",
+    "name": "Inflation (MoM) (Mar)"
+  },
+  {
+    "economy": "IDR",
+    "impact": 1,
+    "data": "2021-04-01 04:05:00",
+    "name": "Inflation (YoY) (Mar)"
+  },
+  {
+    "economy": "IDR",
+    "impact": 2,
+    "data": "2021-04-01 04:11:00",
+    "name": "Core Inflation (YoY) (Mar)"
+  },
+  {
+    "economy": "AUD",
+    "impact": 1,
+    "data": "2021-04-01 05:30:00",
+    "name": "Commodity Prices (YoY)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-04-01 06:00:00",
+    "name": "German Retail Sales (YoY) (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-04-01 06:00:00",
+    "name": "German Retail Sales (MoM) (Feb)"
+  },
+  {
+    "economy": "CHF",
+    "impact": 2,
+    "data": "2021-04-01 06:30:00",
+    "name": "Retail Sales (YoY) (Feb)"
+  },
+  {
+    "economy": "CHF",
+    "impact": 1,
+    "data": "2021-04-01 06:30:00",
+    "name": "CPI (YoY) (Mar)"
+  },
+  {
+    "economy": "CHF",
+    "impact": 2,
+    "data": "2021-04-01 06:30:00",
+    "name": "CPI (MoM) (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-04-01 07:15:00",
+    "name": "Spanish Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "CHF",
+    "impact": 2,
+    "data": "2021-04-01 07:30:00",
+    "name": "procure.ch PMI (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-04-01 07:45:00",
+    "name": "Italian Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-04-01 07:50:00",
+    "name": "French Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 3,
+    "data": "2021-04-01 07:55:00",
+    "name": "German Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-04-01 08:00:00",
+    "name": "Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "IDR",
+    "impact": 1,
+    "data": "2021-04-01 08:16:00",
+    "name": "Motorbike Sales (YoY) (Feb)"
+  },
+  {
+    "economy": "GBP",
+    "impact": 3,
+    "data": "2021-04-01 08:30:00",
+    "name": "Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-04-01 09:00:00",
+    "name": "French Car Registration (YoY) (Mar)"
+  },
+  {
+    "economy": "ZAR",
+    "impact": 1,
+    "data": "2021-04-01 09:00:00",
+    "name": "Manufacturing PMI"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-01 10:00:00",
+    "name": "OPEC Meeting"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 11:30:00",
+    "name": "Challenger Job Cuts (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 11:30:00",
+    "name": "Challenger Job Cuts (YoY)"
+  },
+  {
+    "economy": "BRL",
+    "impact": 2,
+    "data": "2021-04-01 12:00:00",
+    "name": "Industrial Production (YoY) (Feb)"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-04-01 12:00:00",
+    "name": "Industrial Production (MoM) (Feb)"
+  },
+  {
+    "economy": "ZAR",
+    "impact": 1,
+    "data": "2021-04-01 12:00:00",
+    "name": "Total Vehicle Sales (YoY) (Mar)"
+  },
+  {
+    "economy": "ZAR",
+    "impact": 1,
+    "data": "2021-04-01 12:00:00",
+    "name": "Total Vehicle Sales (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 12:30:00",
+    "name": "Continuing Jobless Claims"
+  },
+  {
+    "economy": "USD",
+    "impact": 3,
+    "data": "2021-04-01 12:30:00",
+    "name": "Initial Jobless Claims"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 12:30:00",
+    "name": "Jobless Claims 4-Week Avg."
+  },
+  {
+    "economy": "CAD",
+    "impact": 2,
+    "data": "2021-04-01 12:30:00",
+    "name": "Building Permits (MoM) (Feb)"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-04-01 13:00:00",
+    "name": "Markit Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "CAD",
+    "impact": 1,
+    "data": "2021-04-01 13:30:00",
+    "name": "Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-01 13:45:00",
+    "name": "Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 14:00:00",
+    "name": "Construction Spending (MoM) (Feb)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-01 14:00:00",
+    "name": "ISM Manufacturing Employment (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 14:00:00",
+    "name": "ISM Manufacturing New Orders Index (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 3,
+    "data": "2021-04-01 14:00:00",
+    "name": "ISM Manufacturing PMI (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 14:00:00",
+    "name": "ISM Manufacturing Prices (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 14:30:00",
+    "name": "Natural Gas Storage"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-04-01 14:30:00",
+    "name": "Exports (USD)"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-04-01 14:30:00",
+    "name": "Imports (USD)"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-04-01 14:30:00",
+    "name": "Trade Balance"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 15:30:00",
+    "name": "4-Week Bill Auction"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-01 15:30:00",
+    "name": "8-Week Bill Auction"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-01 17:00:00",
+    "name": "U.S. Baker Hughes Oil Rig Count"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-01 17:00:00",
+    "name": "FOMC Member Harker Speaks"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-01 17:00:00",
+    "name": "U.S. Baker Hughes Total Rig Count"
+  },
+  {
+    "economy": "BRL",
+    "impact": 1,
+    "data": "2021-04-01 18:00:00",
+    "name": "Trade Balance (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-01 20:05:00",
+    "name": "FOMC Member Kaplan Speaks"
+  },
+  {
+    "economy": "KRW",
+    "impact": 2,
+    "data": "2021-04-01 23:00:00",
+    "name": "CPI (YoY) (Mar)"
+  },
+  {
+    "economy": "KRW",
+    "impact": 1,
+    "data": "2021-04-01 23:00:00",
+    "name": "CPI (MoM) (Mar)"
+  },
+  {
+    "economy": "JPY",
+    "impact": 1,
+    "data": "2021-04-01 23:50:00",
+    "name": "Monetary Base (YoY)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 00:00:00",
+    "name": "Total Vehicle Sales"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "United States - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "United Kingdom - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Germany - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Switzerland - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Italy - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Norway - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "France - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Spain - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Australia - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Singapore - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Brazil - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Hong Kong - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "South Africa - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "India - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Canada - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Mexico - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "New Zealand - Good Friday"
+  },
+  {
+    "economy": "",
+    "impact": 0,
+    "data": null,
+    "name": "Indonesia - Good Friday"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-04-02 06:45:00",
+    "name": "French Government Budget Balance (Feb)"
+  },
+  {
+    "economy": "EUR",
+    "impact": 1,
+    "data": "2021-04-02 08:00:00",
+    "name": "Italian Public Deficit (Q4)"
+  },
+  {
+    "economy": "INR",
+    "impact": 1,
+    "data": "2021-04-02 11:30:00",
+    "name": "FX Reserves, USD"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-02 12:30:00",
+    "name": "Average Hourly Earnings (YoY) (YoY) (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-02 12:30:00",
+    "name": "Average Hourly Earnings (MoM) (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 12:30:00",
+    "name": "Average Weekly Hours (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 12:30:00",
+    "name": "Government Payrolls (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 12:30:00",
+    "name": "Manufacturing Payrolls (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 3,
+    "data": "2021-04-02 12:30:00",
+    "name": "Nonfarm Payrolls (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-02 12:30:00",
+    "name": "Participation Rate (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-02 12:30:00",
+    "name": "Private Nonfarm Payrolls (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 12:30:00",
+    "name": "U6 Unemployment Rate (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 3,
+    "data": "2021-04-02 12:30:00",
+    "name": "Unemployment Rate (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 13:00:00",
+    "name": "All Car Sales (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 13:00:00",
+    "name": "All Truck Sales (Mar)"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-02 15:00:00",
+    "name": "FOMC Member Bostic Speaks"
+  },
+  {
+    "economy": "GBP",
+    "impact": 2,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC GBP speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Aluminium speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Copper speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Corn speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Crude Oil speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Gold speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Nasdaq 100 speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Natural Gas speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 2,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC S&P 500 speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Silver speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Soybeans speculative net positions"
+  },
+  {
+    "economy": "USD",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC Wheat speculative net positions"
+  },
+  {
+    "economy": "CAD",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC CAD speculative net positions"
+  },
+  {
+    "economy": "MXN",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC MXN speculative net positions"
+  },
+  {
+    "economy": "CHF",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC CHF speculative net positions"
+  },
+  {
+    "economy": "AUD",
+    "impact": 2,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC AUD speculative net positions"
+  },
+  {
+    "economy": "BRL",
+    "impact": 2,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC BRL speculative net positions"
+  },
+  {
+    "economy": "JPY",
+    "impact": 2,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC JPY speculative net positions"
+  },
+  {
+    "economy": "NZD",
+    "impact": 1,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC NZD speculative net positions"
+  },
+  {
+    "economy": "EUR",
+    "impact": 2,
+    "data": "2021-04-02 20:30:00",
+    "name": "CFTC EUR speculative net positions"
+  }
+]
