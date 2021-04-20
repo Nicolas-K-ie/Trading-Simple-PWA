@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title> | Trading Simple | PRICE </title>
+<meta charset="utf-8">
+<!--For Responsive Web Design Using Media Queries - CSS3 -->
+<meta name="viewport" content = "width=device-width, initial-scale=1">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="css/style.css">
+<link rel="shortcut icon" href="icons/favicon.ico"/>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@395;400;500;600&family=Roboto:ital,wght@1,300&display=swap');
+</style>
+<script src="js/jquery.js" ></script> 
+
+<script src="node_modules/chart.js/dist/Chart.js" defer></script>
+<script src="js/priceChart.js" defer></script>
+<script>
+ 
+</script>
+</head>
+
+<body>
+  <div class="grid-container-pr">
+    <div class="header-pr">
+        <div><a class="link-header" href="index.html"><img src="img/chart.png" class="img-menu img-header"></div>
+        <div id="title-header-section"><h2 class="title-section">Chart</h2></div></a>
+        <div></div>
+    </div>
+    <!-- <div class="list-pr">
+      <form>
+        <select name="symbol-list" class="custom-select form-1-line form-control">
+          <option selected>Symbol List</option>
+   
+          <option value="ETHUSD">ETHUSD</option>
+          <option value="BTCUSD">BTCUSD</option>
+          <option value="XRPUSD">XRPUSD</option>
+
+         </select>
+         <button id="myBtn" type="button" value="Submit" class="rules-number buttonNeu btn-jrn form-jr">Submit</button>      </form>
+    </div> -->
+
+    <div class="chart-pr">
+      <div>
+        <canvas id="priceChart" width="100" height="100"></canvas>
+     </div>
+    </div>
+        <div class="data-pr">
+          <div class="pricetab">
+      
+            <table id="table-screener" class="label-switch table-pr">
+              
+              <div id="SP500">
+                <tbody id= "jsonTable">
+                  <thead ><p id="symbol"> BTC/USD</p> </thead>
+                
+                
+                  
+
+                </tbody>
+              </div>
+            </table>
+      </div> 
+    </div> </body>
+<footer>
+    <div class="footer-jr">
+      <div></div>
+      <div class="button">
+          <div id="footer">
+              <div class="footer "> 
+                  <div>
+                      <nav class="menu btn-index">
+                      <input type="checkbox" href="#" class="menu-open" name="menu-open" id="menu-open" />
+                      <label class="menu-open-button" for="menu-open">
+                          <img src="img/menu.png" class="img-fluid" alt="Menu">
+                      </label>
+                      <a href="screener.html" class="menu-item scn"><img src="img/radar.png" class="img-menu"></a>
+                      <a href="commandments.html" class="menu-item com"> <img src="img/stones.png" class="img-menu"></a>
+                      <a href="price.html" class="menu-item pri">  <img src="img/chart.png" class="img-menu"></a>
+                      <a href="calendar.html" class="menu-item cal">  <img src="img/calendar.png" class="img-menu"></a>
+                      <a href="journal.html" class="menu-item jou"><img src="img/notebook.png" class="img-menu"></a>
+                      </nav>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+  </div>
+</div>
+
+
+</footer>
+
+<script src="main.js"></script>
+</html>
